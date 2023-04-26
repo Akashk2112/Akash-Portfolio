@@ -9,9 +9,9 @@ body{
 }
 .first-container{
     text-align: center;
-    height: 100vh;
     width: 100%;
     background-color: #ECF2FF;
+    margin-bottom: 150px;
 }  
 
 h1{
